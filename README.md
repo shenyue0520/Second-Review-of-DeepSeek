@@ -1,6 +1,6 @@
-Second Review of DeepSeek
-Lu Shouqun
-December 19, 2025
+# Second Review of DeepSeek
+# Lu Shouqun 
+# December 19, 2025
 The Liang Wenfeng team at DeepSeek released DeepSeek-V3
 on December 26th of last year, followed by DeepSeek-R1 on
 January 20th of this year, creating a sensation in Silicon
