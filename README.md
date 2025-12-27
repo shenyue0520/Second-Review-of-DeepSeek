@@ -1,20 +1,9 @@
 # Second Review of DeepSeek
-# Lu Shouqun 
-# December 19, 2025
-The Liang Wenfeng team at DeepSeek released DeepSeek-V3
-on December 26th of last year, followed by DeepSeek-R1 on
-January 20th of this year, creating a sensation in Silicon
-Valley and around the world. At the time, some people
-questioned or were confused about the value of DeepSeek. To
-clarify these doubts and discuss the development of
-DeepSeek, I published an article titled "Review of
-DeepSeek" (published on GitHub, Hugging Face, Gitee, and
-Gitcode), which presented six arguments. Now, almost a year
-later, I feel it necessary to analyze its future prospects in
-conjunction with the recent development of DeepSeek and
-other major models, and also to examine whether the
-arguments presented in my article are appropriate.
-Argument 1: Liang Wenfeng's team has developed a new
+** Lu Shouqun ** December 19, 2025
+The Liang Wenfeng team at DeepSeek released DeepSeek-V3 on December 26th of last year, followed by DeepSeek-R1 on January 20th of this year, creating a sensation in Silicon Valley and around the world. At the time, some people questioned or were confused about the value of DeepSeek. To clarify these doubts and discuss the development of DeepSeek, I published an article titled "Review of DeepSeek" (published on GitHub, Hugging Face, Gitee), which presented six arguments. Now, almost a year later, I feel it necessary to analyze its future prospects in
+conjunction with the recent development of DeepSeek and other major models, and also to examine whether the arguments presented in my article are appropriate.
+## **Argument 1:**
+Liang Wenfeng's team has developed a new
 path for developing artificial intelligence that is "low-
 investment, low-cost, resource-constrained, highly efficient,
 and cost-effective (output)." DeepSeek is arguably the
@@ -31,7 +20,8 @@ APP, who considered my comments insightful and based on
 objective facts. ③ Recently (December 10th), Liang Wenfeng
 was selected as one of Nature's "Ten People of the Year," and
 his achievements are as stated in Argument 1 above.
-Argument 2: DeepSeek operates entirely in open source,
+## **Argument 2:**
+DeepSeek operates entirely in open source,
 adhering to open-source innovation. Open source facilitates
 iterative innovation, maintenance, upgrades, and ecosystem
 development in artificial intelligence. DeepSeek integrates its
@@ -49,7 +39,8 @@ DeepSeek's open-source approach has also had some negative
 impacts, such as the leakage of some technologies and
 increased competitiveness among domestic and international
 peers (how to address this remains to be addressed).
-Argument 3: The existing product rankings of large models
+## **Argument 3:**
+The existing product rankings of large models
 seem to put DeepSeek at a disadvantage. However,
 DeepSeek's output performance is on par with other top large
 models; there's no exaggerated comparison of better or worse.
@@ -67,7 +58,8 @@ GPT-4 is at 27%, while in GPT-5 it is 57%. Although Liang
 Wenfeng emphasized his focus on general artificial
 intelligence (AGI) in an article on Today’s Headlines on
 March 23, it is still a step behind.
-Argument 4: DeepSeek's core technologies are no longer
+## **Argument 4:**
+DeepSeek's core technologies are no longer
 secrets, so when entering the next stage of AI competition,
 everyone starts on the same footing. The launch of DeepSeek
 has triggered an intense global competition in artificial
@@ -77,7 +69,8 @@ GPT-5.1, Google's Gemini-3 pro, XAI's Grok 4.1, and
 Anthropic's Claude-opus 4.5 are all competing for the top
 spot. It's surprising how difficult it has been for DeepSeek-R2
 to be released!
-Argument 5: Currently, various large language models,
+## **Argument 5:**
+Currently, various large language models,
 including DeepSeek, are generative autoregressive language
 models, not true artificial intelligence. Because they do not
 understand the physical world, lack local and global
@@ -94,7 +87,8 @@ the process of correction and redirection toward AGI and is
 putting effort into developing the aforementioned transitional
 stages. To overcome the slow initial progress, the pace of
 research and development needs to be accelerated.
-Argument 6: Like other standard and widely accessible
+## **Argument 6:**
+Like other standard and widely accessible
 foundational models, DeepSeek is difficult to directly
 transform into high-quality productivity for enterprises/
 industries. It still needs to enhance its currently missing
