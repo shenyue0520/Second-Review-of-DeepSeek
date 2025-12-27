@@ -1,7 +1,9 @@
 # Second Review of DeepSeek
 **Lu Shouqun** December 19, 2025
+
 The Liang Wenfeng team at DeepSeek released DeepSeek-V3 on December 26th of last year, followed by DeepSeek-R1 on January 20th of this year, creating a sensation in Silicon Valley and around the world. At the time, some people questioned or were confused about the value of DeepSeek. To clarify these doubts and discuss the development of DeepSeek, I published an article titled "Review of DeepSeek" (published on GitHub, Hugging Face, Gitee), which presented six arguments. Now, almost a year later, I feel it necessary to analyze its future prospects in
 conjunction with the recent development of DeepSeek and other major models, and also to examine whether the arguments presented in my article are appropriate.
+
 ## **Argument 1:**
 Liang Wenfeng's team has developed a new
 path for developing artificial intelligence that is "low-
